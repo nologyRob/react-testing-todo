@@ -5,6 +5,8 @@ import { v4 } from "uuid"
 function AddInput(props) {
     const {setTodos, todos} = props;
 
+    
+
     const [todo, setTodo] = useState("")
 
     const addTodo = () => {

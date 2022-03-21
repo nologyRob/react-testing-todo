@@ -1,9 +1,14 @@
 import { render, screen } from "@testing-library/react";
-import AddInput from "../AddInput";
 
-describe("Add Input", () => {
-  it("", async () => {
 
+// describe("Add Input", () => {
+//   it('should render input element', async () => {
+//       //Arrange
     
-  });
-});
+
+//     //Act
+    
+
+//     //Assert
+    
+//   });
